@@ -1,7 +1,8 @@
 import statistics
 
-#Normal way to find out mean
 data = [10,20,30,40]
+
+#Normal way to find out mean
 mean = sum(data)/len(data)
 print(mean)
 
